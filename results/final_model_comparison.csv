@@ -1,0 +1,7 @@
+framework,model,mae,mse,rmse,directional_accuracy_pct
+PyTorch,Zero-Return Baseline,4.4274,40.0552,6.3289,49.62
+PyTorch,Enhanced RNN,4.4636,40.0288,6.3268,50.0
+PyTorch,Enhanced LSTM,4.527,40.8592,6.3921,46.24
+TensorFlow,Zero-Return Baseline,4.4607,40.366,6.3534,49.62
+TensorFlow,Enhanced RNN,4.594,41.1814,6.4173,51.88
+TensorFlow,Enhanced LSTM,4.5284,40.8942,6.3949,48.12

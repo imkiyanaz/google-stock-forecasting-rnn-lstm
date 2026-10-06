@@ -1,0 +1,6 @@
+framework,model,validation_mse_or_loss
+PyTorch,Zero-Return Baseline,1.169598
+PyTorch,Enhanced RNN,1.129859
+PyTorch,Enhanced LSTM,1.111938
+TensorFlow,Enhanced RNN,1.222838
+TensorFlow,Enhanced LSTM,1.144001
